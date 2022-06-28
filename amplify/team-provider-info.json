@@ -10,6 +10,11 @@
       "StackName": "amplify-oauth2test-dev-205206",
       "StackId": "arn:aws:cloudformation:ap-northeast-2:620959641487:stack/amplify-oauth2test-dev-205206/923c9930-f60f-11ec-b3c9-06d7350bda7c",
       "AmplifyAppId": "dah98hcp9xzk5"
+    },
+    "categories": {
+      "auth": {
+        "oauth2testb08f00c0": {}
+      }
     }
   }
 }
